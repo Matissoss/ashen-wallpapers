@@ -6,11 +6,11 @@ This repo features wallpapers from [onedark-wallpapers](https://github.com/Narmi
 
 # Color reference
 
-![Color reference](color-reference.svg)
+<img src=color-reference.svg width=100%>
 
 # Example
 
-<img src=example.png width=90>
+<img src=example.png width=100%>
 
 # Licensing
 
