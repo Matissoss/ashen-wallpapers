@@ -8,10 +8,6 @@ This repo features wallpapers from [onedark-wallpapers](https://github.com/Narmi
 
 <img src=color-reference.svg width=100%>
 
-# Example
-
-<img src=example.png width=100%>
-
 # Licensing
 
 While repo is licensed under MIT License, if there are any wallpapers that their rightful creators wish to be removed, please make an issue and I will remove them ASAP.
