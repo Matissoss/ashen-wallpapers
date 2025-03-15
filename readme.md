@@ -1,12 +1,12 @@
 <div align=center>
-    <h1>ashen-wallpapers</h1>
+    <h1>mateus-wallpapers</h1>
 </div>
 
-This repo features wallpapers from [onedark-wallpapers](https://github.com/Narmis-E/onedark-wallpapers), [everforest-walls](https://github.com/Apeiros-46B/everforest-walls) and [catppuccin-wallpapers](https://github.com/VipinVIP/wallpapers) changed using my CLI program [ashen-image](https://github.com/Matissoss/ashen-image) with Standard filter.
+This repo features wallpapers from [onedark-wallpapers](https://github.com/Narmis-E/onedark-wallpapers), [everforest-walls](https://github.com/Apeiros-46B/everforest-walls) and [catppuccin-wallpapers](https://github.com/VipinVIP/wallpapers) changed using my CLI program [mateus-image](https://github.com/Matissoss/mateus-image) with Standard filter.
 
 # Color reference
 
-<img src=color-reference.svg width=100%>
+<img src=color-ref.svg width=100%>
 
 # Licensing
 
